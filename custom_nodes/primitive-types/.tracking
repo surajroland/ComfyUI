@@ -1,0 +1,12 @@
+.flake8
+README.md
+.gitignore
+LICENSE
+.mypy.ini
+pyproject.toml
+__init__.py
+src/primitivetypes/export.py
+src/primitivetypes/base.py
+src/primitivetypes/nodes.py
+src/primitivetypes/__init__.py
+.github/workflows/publish.yml

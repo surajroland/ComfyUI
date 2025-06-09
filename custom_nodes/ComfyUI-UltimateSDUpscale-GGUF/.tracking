@@ -1,0 +1,10 @@
+.github/workflows/publish.yml
+.gitignore
+LICENSE
+README.md
+__init__.py
+pyproject.toml
+sampler.py
+seam_fixer.py
+ultimate_sd_upscale_gguf.py
+upscale_settings.py
